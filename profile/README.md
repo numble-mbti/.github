@@ -31,16 +31,16 @@
  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring Security&logoColor=white"/>
  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <br>
- <img alt="MariaDB" src="https://img.shields.io/badge/Maria%20DB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+ <img alt="MariaDB" src="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
 
 <div width="80%" align="center">
 <h3 align="center"><b>인프라</b></h3>
- <img alt="Naver Cloud Platform" src="https://img.shields.io/badge/Naver Cloud Platform-005571.svg?&style=for-the-badge&logoColor=white"/>
- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-005571.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+ <img alt="Naver Cloud Platform" src="https://img.shields.io/badge/Naver Cloud Platform-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+ <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
- <img alt="Docker" src="https://img.shields.io/badge/Docker-005571.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
+ <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
  <img alt="GithubActions" src="https://img.shields.io/badge/Github Actions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
 </div>
 
@@ -113,8 +113,10 @@
 </table>
 
 ## 주요 기능 
-### 소셜 로그인(회원가입)
-
+### 소셜 회원 
+<div align="center">
+  <img src="https://github.com/numble-mbti/.github/assets/79269207/47352da9-9635-4e74-bd41-3569b6c54c94" alt="fluffi" style="width: 80%; margin-bottom: 20px" />
+</div>
 
 ### 테스트(현재 서비스는 새 테스트만)
 
