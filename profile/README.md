@@ -16,7 +16,7 @@
 
 ## ⚒️ 프로젝트 구조 및 기술 스택 
 <div width="80%" align="center">
-  <img src="https://github.com/numble-mbti/.github/assets/79269207/826673d4-24d5-4f5d-b792-cd3230561540"> 
+  <img src="https://github.com/numble-mbti/.github/assets/79269207/27d65e03-ef9b-44f6-bde8-88cb86642dfa"> 
 </div>
 
 <div width="80%" align="center">
