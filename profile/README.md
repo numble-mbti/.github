@@ -15,6 +15,15 @@
 재미있는 테스트도 하면서, 멸종 위기 동물에도 한 번 관심을 가져보세요! 😺
 
 ## ⚒️ 기술 스택 
+
+<div width="80%" align="center">
+  <h3 align="center"><b>협업툴</b></h3>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
+</div>
+
 <div width="80%" align="center">
   <h3 align="center"><b>프론트엔드</b></h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
@@ -40,6 +49,7 @@
  <img alt="Naver Cloud Platform" src="https://img.shields.io/badge/Naver Cloud Platform-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
+  <br>
  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
  <img alt="GithubActions" src="https://img.shields.io/badge/Github Actions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
 </div>
@@ -132,8 +142,7 @@
   <img src="https://github.com/numble-mbti/.github/assets/79269207/3484d3f1-d70c-4d8c-9e65-d727c6f7d789" alt="fluffi" style="width: 80%; margin-bottom: 20px" />
 </div>
 
-## 프론트엔드 레포지토리 바로 가기 
+## 🎨 [프론트엔드 레포지토리 바로 가기](https://github.com/numble-mbti/numble-typetest-client)
 
-
-## 백엔드 레포지토리 바로 가기 
+## 🔧 [백엔드 레포지토리 바로 가기](https://github.com/numble-mbti/numble-mbti-server)
 
