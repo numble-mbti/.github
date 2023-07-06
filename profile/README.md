@@ -14,7 +14,10 @@
 <br>
 재미있는 테스트도 하면서, 멸종 위기 동물에도 한 번 관심을 가져보세요! 😺
 
-## ⚒️ 기술 스택 
+## ⚒️ 프로젝트 구조 및 기술 스택 
+<div width="80%" align="center">
+  <img src="https://github.com/numble-mbti/.github/assets/79269207/826673d4-24d5-4f5d-b792-cd3230561540"> 
+</div>
 
 <div width="80%" align="center">
   <h3 align="center"><b>협업툴</b></h3>
